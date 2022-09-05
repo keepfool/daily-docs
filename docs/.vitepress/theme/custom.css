@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Nunito&display=swap');
+
+body {
+  font-family: Nuntio sans-serif;
+}
+
+.vp-doc [class*='language-'] pre {
+  font-family: JetBrains Mono;
+}
+
+.vp-doc div[class*='language-'] {
+  background-color: #292a36;
+}
+
