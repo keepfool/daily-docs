@@ -32,9 +32,9 @@ Use `git log` without any parameters will list all updates by commit time, the l
 
 You can specify some parameters after the `git log` command.
 
-Option<div style="width:120px" />             | Description
+Option<div style="width:160px" />             | Description
 --------------- | ------------------------------------------------------------------
--p | Shows the differences between each commit in patch format.
+-p              | Shows the differences between each commit in patch format.
 --stat          | Shows file changes statistics for each commit.
 --shortstat     | Shows file changes statistics for each commit in short.
 --name-only     | Only show the changed file names.
@@ -42,7 +42,7 @@ Option<div style="width:120px" />             | Description
 --abbrev-commit | Show the first few characters of SHA-1 commit id, instead of the full commit id which length is 40.
 --relative-date | Use a shorter relative time display (eg, "2 weeks ago").
 --graph         | Shows the branch merge history in an ASCII graphics.
---pretty        | Display historical commit information in a pretty format. 
+--pretty        | Display historical commit information in a pretty format.
 
 ## Pretty the log
 
