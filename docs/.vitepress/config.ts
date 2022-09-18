@@ -11,7 +11,13 @@ export default {
           { text: 'Git Branches', link: '/git/branch' },
           { text: 'Git Tags', link: '/git/tag' },
         ]
-      }
+      },
+      {
+        text: 'Terminal',
+        items: [
+          { text: 'Tmux', link: '/terminal/tmux' },
+        ]
+      }, 
     ]
   }
 }

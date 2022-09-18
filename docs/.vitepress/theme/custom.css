@@ -14,7 +14,6 @@ body {
   --custom-block-color: #fff;
 }
 
-
 .vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4, .vp-doc h5, .vp-doc h6 {
   font-weight: bold;
 }
@@ -35,6 +34,7 @@ body {
 .vp-doc :not(pre) > code {
   background-color: #dbe3ef;
   color: #112d4e;
+  word-break: break-all;
 }
 
 .custom-block {
@@ -81,5 +81,3 @@ body {
 .dark .vp-doc th {
   background-color: rgba(255, 255, 255, 0.06);
 }
-
-
