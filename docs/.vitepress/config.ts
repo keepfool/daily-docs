@@ -10,6 +10,7 @@ export default {
           { text: 'Git Logs', link: '/git/log' },
           { text: 'Git Branches', link: '/git/branch' },
           { text: 'Git Tags', link: '/git/tag' },
+          { text: 'Multiple Github Accounts', link: '/git/multiple-github-accounts' },
         ]
       },
       {

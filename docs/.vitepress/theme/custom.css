@@ -19,6 +19,7 @@ body {
 }
 
 .vp-doc h2 {
+  padding-top: 0;
   border-top: 0;
 }
 
